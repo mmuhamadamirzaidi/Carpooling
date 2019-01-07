@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carpooling</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="looking_for_the_rider_app">DRIVER APP</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="welcome">WELCOME SCREEN</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyCCBRfr3-x2ykzrEkzv9zj-D2WuWVYFT3A</string>
+</resources>
